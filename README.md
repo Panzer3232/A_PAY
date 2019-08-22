@@ -1,3 +1,3 @@
-# MERN-stack-Login-page
+# A-Pay
 
-This is a simple Login page developed using MERN stack and passport jwt.
+This is a demo Bank web application made using palid api and MERN stack
